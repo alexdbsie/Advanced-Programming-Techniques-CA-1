@@ -165,7 +165,7 @@ class Program
         elements[30].Name = "Zinc";
         elements[30].Class = "Transition Metal";   
     
-        Console.WriteLine("Hi there! Happy to help!");
+        Console.WriteLine("Hi there! I am happy to help you!!");
 
         string answer = "y";
 
