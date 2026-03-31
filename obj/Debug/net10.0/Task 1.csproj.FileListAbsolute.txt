@@ -1,0 +1,15 @@
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfoInputs.cache
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfo.cs
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.csproj.CoreCompileInputs.cache
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.sourcelink.json
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\bin\Debug\net10.0\Task 1.exe
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\bin\Debug\net10.0\Task 1.deps.json
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\bin\Debug\net10.0\Task 1.runtimeconfig.json
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\bin\Debug\net10.0\Task 1.dll
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\bin\Debug\net10.0\Task 1.pdb
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.dll
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\refint\Task 1.dll
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.pdb
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\Task 1.genruntimeconfig.cache
+D:\DBS\ADVANCED PROGRAMMING TECHNIQUES\APT CA-1\Task 1\obj\Debug\net10.0\ref\Task 1.dll
