@@ -12,5 +12,9 @@ print("Server started... Waiting for client")
 conn, addr = server_socket.accept()
 print("Connected:", addr)
 
+data = conn.recv(1024)
+message = data.decode()
+print("Received from client:", message)
+
 conn.close()
 server_socket.close()
