@@ -2,7 +2,7 @@ import socket
 import sqlite3
 
 HOST = "127.0.0.1"
-PORT = 65432
+PORT = 65433
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind((HOST, PORT))
@@ -28,6 +28,7 @@ name, address, pps, license_file = message.split(",")
 cursor.execute("INSERT INTO customers (name, address, pps, license) VALUES (?, ?, ?, ?)", (name, address, pps, license_file))
 
 conn_db.commit()
+print("Data stored in the database!")
 
 
 reg_id = cursor.lastrowid
