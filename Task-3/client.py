@@ -15,6 +15,8 @@ license_file = input("Enter License File Name: ")
 data = name + "," + address + "," + pps + "," + license_file
 
 client_socket.send(data.encode())
+reg_id = client_socket.recv(1024).decode()
+print("Your Registration ID:", reg_id)
 
 print("Customer data sent to server")
 
