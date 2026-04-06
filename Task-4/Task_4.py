@@ -20,7 +20,7 @@ for article in soup.find_all("article", class_="product_pod"):
         "Price": price
     })
 
-print(books)
+print("Data saved to books.csv\n")
 
 with open("books.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=["Name", "Rating", "Price"])
@@ -28,3 +28,10 @@ with open("books.csv", "w", newline="", encoding="utf-8") as f:
     writer.writerows(books)
 
 print("CSV file created successfully")
+
+with open("books.csv", newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    print(f"{'Name':<50} {'Rating':<10} {'Price'}")
+    print("-" * 70)
+    for row in reader:
+        print(f"{row['Name']:<50} {row['Rating']:<10} {row['Price']}")
